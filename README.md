@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=hi+my+name+Ana+Sabio" alt="Typing SVG" /></a>
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=hi+my+name+Ana+Sabio" alt="Typing SVG" /></a>
 
 ##
 
@@ -6,7 +6,7 @@
 
 ##
 
-- Tech I'm passionate about
+## 💻 Tech Stack
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
