@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=90&size=29&duration=1000&pause=1000&color=F70000&center=true&vCenter=true&repeat=false&width=435&lines=Devolper+Back-end;Devolper+Full-Stack;Cybersecurity;Trabalho+de+freelancer;Desenvolvedora+Java+%26+C%23)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=my+name+is+Ana+Sabio;Back-End+Devolper;Full-Stack+Devolper;Cybersecurity;freelancer)](https://git.io/typing-svg)
 </div>
 
 ###  Atualmente trabalho com freelancer Desenvolmento back-end 
