@@ -7,7 +7,7 @@
 
 ###  Atualmente trabalho com freelancer Desenvolmento back-end 
 ### Sou um estudante de Cybersecurity e Engenhaira De Software
-### Realizo projetos para empresas privadas de distribuição de todo o Brasil.
+### Realizo projetos para empresas.
 
 <br>
 
