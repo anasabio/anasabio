@@ -1,10 +1,6 @@
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=hi+my+name+Ana+Sabio" alt="Typing SVG" /></a>
+## Hi 👋 my name is Ana Sabio
 
-##
-
-### Full Stack devolper
-
-##
+## 💻-back-end devolper / 💻- Full Stack / 🔐- Cybersecurity
 
 ## 💻 Tech Stack
 
