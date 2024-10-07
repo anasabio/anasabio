@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB043&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
 
 <div align="center">
 
@@ -30,9 +30,15 @@
 <div align="center">
 <h3> favorites </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,cs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cs,kali&theme=light)](https://skillicons.dev)
 
 <div align="center">
 <h3> my dowry </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,github,aws,idea,linux,figma,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,ruby,nodejs,mysql,linux,go,dotnet,aws,arch)](https://skillicons.dev)<br>
+</br>
+
+<div align="center">
+  <h3> My IDE </h3>
+  
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,idea,visualstudio,clion)](https://skillicons.dev)
