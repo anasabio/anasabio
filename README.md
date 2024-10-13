@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=my+name+is+Ana+Sabio;Back-End+Devolper;Full-Stack+Devolper;Cybersecurity;freelancer)](https://git.io/typing-svg)
 </div>
 
-###  Atualmente trabalho com freelancer Desenvolmento back-end 
-### Sou um estudante de Cybersecurity e Engenhaira De Software
+- Atualmente trabalho com freelancer Desenvolmento back-end
+- Sou um estudante de Cybersecurity e Engenhaira De Software
 
 
 <br>
