@@ -39,6 +39,11 @@
 </br>
 
 <div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=apple,swift,react,azure,dart,docker,flutter,spring,ts)](https://skillicons.dev)<br>
+</br>
+
+<div align="center">
   <h3> My IDE </h3>
   
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,idea,visualstudio,clion)](https://skillicons.dev)
