@@ -30,13 +30,12 @@
 <div align="center">
 <h3> favorites </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,cs,kali&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cs&theme=light)](https://skillicons.dev)
 
 <div align="center">
 <h3> my dowry </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=kali,ruby,nodejs,mysql,linux,go,dotnet,aws,arch)](https://skillicons.dev)<br>
-</br>
+[![My Skills](https://skillicons.dev/icons?i=kali,ruby,nodejs,mysql,js,dotnet,aws,arch)](https://skillicons.dev)
 
 <div align="center">
 
