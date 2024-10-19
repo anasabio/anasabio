@@ -35,7 +35,7 @@
 <div align="center">
 <h3> my dowry </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=kali,ruby,nodejs,mysql,js,dotnet,aws,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kali,ruby,nodejs,mysql,js,html,css,dotnet,aws,arch)](https://skillicons.dev)
 
 <div align="center">
 
