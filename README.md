@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-- Sou um estudante de Cybersecurity e Engenhaira De Software
+   • Sou um estudante de Cybersecurity e Engenhaira De Software
 
 
 <br>
