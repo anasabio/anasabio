@@ -1,8 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=my+name+is+Ana+Sabio;Back-End+Devolper;Full-Stack+Devolper;Cybersecurity;freelancer)](https://git.io/typing-svg)
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F80000&width=435&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BC+My+Name+Ana+Sabio;Cybersecurity+;Back-end+Devolper;Data+Analyst;Full-Stack+devolper+)](https://git.io/typing-svg)/>
 
 <div align="center">
    • Sou um estudante de Cybersecurity e Engenhaira De Software
