@@ -24,6 +24,8 @@
 
 ###
 
+<br>
+
 <h3 align="center">🛠 My Skills</h3>
 
 ###
@@ -47,6 +49,8 @@
 </div>
 
 ###
+
+<br>
 
 <h3 align="center">🔥   My Stats :</h3>
 
