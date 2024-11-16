@@ -20,7 +20,7 @@
 
 ###
 
-<h3 align="center">I'm Name Ana Sabio<br><br>- 🤖 Back-end Devolper<br>-  💾 Cybersecurity<br>- 🎨 Full stack Devolper</h3>
+<h3 align="center">I'm Name Ana Sabio<br><br>### • 🤖 Back-end Devolper<br>### • 💾 Cybersecurity<br>### • 🎨 Full stack Devolper</h3>
 
 ###
 
