@@ -12,21 +12,24 @@
 
 ###
 
-<h3 align="center">hey there 👋</h3>
+<h3 align="center">Hi my name is Ana Sabio 👋</h3>
+<h3 align="center">🌟 Desenvolvedora apaixonada por tecnologia e inovaçao!
 
 ###
+<br>
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h3 align="center">Sobre mim</h3>
 
-###
-
-<h3 align="center">I'm Name Ana Sabio<br><br>•🤖 Back-end developer <br>•💾 Cybersecurity<br>•🎨 Full stack developer</h3>
+<h3 align="center">
+<br>•💻Back-end developer 
+<br>•🔐Focada em Cibersecurança e arquitetura de APIs
+<br>•🚀Explorando o universo Full-Stack Development </h3>
 
 ###
 
 <br>
 
-<h3 align="center">🛠 My Skills</h3>
+<h3 align="center"> My Skills 🛠<br> Liguagens e Frameworks:</h3>
 
 ###
 
@@ -52,7 +55,7 @@
 
 <br>
 
-<h3 align="center">🔥   My Stats :</h3>
+<h3 align="center">🔥 My Stats </h3>
 
 ###
 
