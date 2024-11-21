@@ -66,6 +66,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="43" alt="azure logo"  />
 </div>
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="43" alt="spring logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="43" alt="cplusplus logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="43" alt="anaconda logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="43" alt="dotnetcore logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="43" alt="mysql logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="43" alt="nodejs logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="43" alt="typescript logo"  />
+  <img width="14" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="43" alt="javascript logo"  />
+</div>
+
 ###
 ###
 
