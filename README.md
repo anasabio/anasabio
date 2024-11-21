@@ -22,7 +22,7 @@
 
 <h3 align="center">
 <br>•💻Back-end developer 
-<br>•🔐Focada em Cibersecurança e arquitetura de APIs
+<br>•🔐Focada em Cibersegurança e arquitetura de APIs
 <br>•🚀Explorando o universo Full-Stack Development </h3>
 
 ###
