@@ -23,8 +23,6 @@
 
 ---
 
-<br>
-
 <h3 align="center">Sobre mim</h3>
 
 <ul align="center">
@@ -35,13 +33,11 @@
 
 ---
 
-<br>
-
 <h3 align="center">Minhas Skills 🛠</h3>
 
 <h4 align="center">Linguagens e Frameworks:</h4>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin logo" />
@@ -53,7 +49,9 @@
 
 ---
 
-<div align="center">
+<h4 align="center">Outras Ferramentas:</h4>
+
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
@@ -63,8 +61,6 @@
 </div>
 
 ---
-
-<br>
 
 <div align="center">
   <picture>
