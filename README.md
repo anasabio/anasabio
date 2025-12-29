@@ -5,13 +5,10 @@
 ---
 
 <div align="center">
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+  <a href="https://www.instagram.com/st.sttc/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
-  <a href="https://discord.com/users/seu-id" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Discord logo" />
-  </a>
-  <a href="https://instagram.com/seu-perfil" target="_blank">
+  <a href="https://www.instagram.com/st.sttc/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
   </a>
 </div>
