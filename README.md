@@ -18,7 +18,7 @@
 
 ---
 
-<h3 align="center">Olá! Meu nome é Ana Sabio 👋</h3>
+<h3 align="center">Olá! Meu nome é Sabio 👋</h3>
 <h3 align="center">🌟 Desenvolvedora apaixonada por tecnologia e inovação!</h3>
 
 ---
