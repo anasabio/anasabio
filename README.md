@@ -2,7 +2,6 @@
   <img width="490" height="200" src="https://media1.tenor.com/m/SYT1iZfO9qAAAAAC/deadpool-hello.gif" />
 </div>
 
----
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sabio-b727b8325/" target="_blank">
@@ -18,7 +17,6 @@
 <h3 align="center">Olá! Meu nome é Sabio 👋</h3>
 <h3 align="center">🌟 Desenvolvedora apaixonada por tecnologia e inovação!</h3>
 
----
 
 <h3 align="center">Sobre mim</h3>
 
@@ -28,7 +26,6 @@
   <li>📚 Sempre aprendendo algo novo!</li>
 </ul>
 
----
 
 <h3 align="center">Minhas Skills 🛠</h3>
 
@@ -43,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
 </div>
 
-<br>
+
 
 <div align="center">
   <!-- Segunda linha de ícones -->
