@@ -26,7 +26,7 @@
   <li>📚 Sempre aprendendo algo novo!</li>
 </ul>
 
-<\br>
+</br>
 
 <h3 align="center">Minhas Skills 🛠</h3>
 
