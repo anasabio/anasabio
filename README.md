@@ -21,9 +21,10 @@
 <h3 align="center">Sobre mim</h3>
 
 <ul align="center">
-<li>💻 Back-end Developer</li>
-<li>🔐 Focada em Cibersegurança e arquitetura de APIs</li>
-<li>📚 Sempre aprendendo algo novo!</li>
+  <li>💻 Desenvolvedora Back-end em formação, com foco em sistemas escaláveis e seguros</li>
+  <li>🔴 Direcionamento de estudos para Segurança Ofensiva (Red Team) e identificação de vulnerabilidades</li>
+  <li>🛡️ Interesse em arquitetura segura de APIs e boas práticas de segurança da informação</li>
+  <li>📚 Comprometida com aprendizado contínuo e desenvolvimento técnico constante</li>
 </ul>
 
 </br>
@@ -48,7 +49,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" height="40" alt="Swift"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height"40" alt="Mysql"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"height="40" alt="Mysql"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" height="40" alt="Kali" />
           
 </div>
