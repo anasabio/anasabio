@@ -21,9 +21,9 @@
 <h3 align="center">Sobre mim</h3>
 
 <ul align="center">
-  <li>💻 Back-end Developer</li>
-  <li>🔐 Focada em Cibersegurança e arquitetura de APIs</li>
-  <li>📚 Sempre aprendendo algo novo!</li>
+<li>💻 Back-end Developer</li>
+<li>🔐 Focada em Cibersegurança e arquitetura de APIs</li>
+<li>📚 Sempre aprendendo algo novo!</li>
 </ul>
 
 </br>
@@ -45,9 +45,10 @@
 <div align="center">
   <!-- Segunda linha de ícones -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C/C-original.svg" height="40" alt="C logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" height="" />
+          
 </div>
 
 </br>
