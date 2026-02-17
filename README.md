@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="490" height="200" src="https://www.rws.com/media/images/hello-world-2_tcm228-275796.png?v=20260217070208" />
+  <img width="590" height="200" src="https://www.rws.com/media/images/hello-world-2_tcm228-275796.png?v=20260217070208" />
 </div>
 
 
